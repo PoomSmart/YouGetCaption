@@ -1,3 +1,5 @@
+"ENABLED" = "Vis knapp for kopiering av bildetekster";
+"POSITION" = "Plassering av knapp for kopiering av bildetekster";
 "CAPTIONS" = "Undertekster";
 "NO_CAPTIONS" = "Ingen undertekster funnet.";
 "COPY_TO_CLIPBOARD" = "Kopier til utklippstavle";

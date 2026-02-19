@@ -1,3 +1,5 @@
+"ENABLED" = "Altyazı kopyalama düğmesini göster";
+"POSITION" = "Altyazı kopyalama düğmesinin konumu";
 "CAPTIONS" = "Altyazılar";
 "NO_CAPTIONS" = "Altyazı bulunamadı.";
 "COPY_TO_CLIPBOARD" = "Panoya kopyala";

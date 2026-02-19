@@ -1,3 +1,5 @@
+"ENABLED" = "显示字幕复制按钮";
+"POSITION" = "字幕复制按钮位置";
 "CAPTIONS" = "字幕";
 "NO_CAPTIONS" = "未找到字幕。";
 "COPY_TO_CLIPBOARD" = "复制到剪贴板";

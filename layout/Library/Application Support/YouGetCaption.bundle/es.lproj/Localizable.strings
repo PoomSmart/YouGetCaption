@@ -1,3 +1,5 @@
+"ENABLED" = "Mostrar botón para copiar los pies de foto";
+"POSITION" = "Posición del botón para copiar los pies de foto";
 "CAPTIONS" = "Subtítulos";
 "NO_CAPTIONS" = "No se encontraron subtítulos.";
 "COPY_TO_CLIPBOARD" = "Copiar al portapapeles";

@@ -1,3 +1,5 @@
+"ENABLED" = "キャプションのコピーボタンを表示";
+"POSITION" = "キャプションのコピーボタンの位置";
 "CAPTIONS" = "字幕";
 "NO_CAPTIONS" = "字幕が見つかりません。";
 "COPY_TO_CLIPBOARD" = "クリップボードにコピー";

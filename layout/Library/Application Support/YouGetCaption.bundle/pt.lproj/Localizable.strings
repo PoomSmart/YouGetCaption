@@ -1,3 +1,5 @@
+"ENABLED" = "Mostrar botão de copiar legendas";
+"POSITION" = "Posição do botão de copiar legendas";
 "CAPTIONS" = "Legendas";
 "NO_CAPTIONS" = "Nenhuma legenda encontrada.";
 "COPY_TO_CLIPBOARD" = "Copiar para a área de transferência";
