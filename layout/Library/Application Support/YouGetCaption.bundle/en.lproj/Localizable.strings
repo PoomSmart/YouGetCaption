@@ -1,3 +1,5 @@
+"ENABLED" = "Show captions copy button";
+"POSITION" = "Captions copy button position";
 "CAPTIONS" = "Captions";
 "NO_CAPTIONS" = "No captions found.";
 "COPY_TO_CLIPBOARD" = "Copy to clipboard";

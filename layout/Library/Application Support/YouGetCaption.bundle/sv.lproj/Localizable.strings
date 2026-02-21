@@ -1,3 +1,5 @@
+"ENABLED" = "Visa knapp för att kopiera bildtexter";
+"POSITION" = "Placering av knapp för att kopiera bildtexter";
 "CAPTIONS" = "Undertexter";
 "NO_CAPTIONS" = "Inga undertexter hittades.";
 "COPY_TO_CLIPBOARD" = "Kopiera till urklipp";

@@ -1,3 +1,5 @@
+"ENABLED" = "Mostra pulsante per copiare le didascalie";
+"POSITION" = "Posizione del pulsante di copia delle didascalie";
 "CAPTIONS" = "Sottotitoli";
 "NO_CAPTIONS" = "Nessun sottotitolo trovato.";
 "COPY_TO_CLIPBOARD" = "Copia negli appunti";

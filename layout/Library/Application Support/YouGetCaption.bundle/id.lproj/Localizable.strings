@@ -1,3 +1,5 @@
+"ENABLED" = "Tampilkan tombol salin keterangan";
+"POSITION" = "Posisi tombol salin keterangan";
 "CAPTIONS" = "Teks";
 "NO_CAPTIONS" = "Tidak ada teks ditemukan.";
 "COPY_TO_CLIPBOARD" = "Salin ke clipboard";

@@ -1,3 +1,5 @@
+"ENABLED" = "Afișează butonul de copiere a legendelor";
+"POSITION" = "Poziția butonului de copiere a legendelor";
 "CAPTIONS" = "Subtitrări";
 "NO_CAPTIONS" = "Nu s-au găsit subtitrări.";
 "COPY_TO_CLIPBOARD" = "Copiază în clipboard";

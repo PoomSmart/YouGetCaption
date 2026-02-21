@@ -1,3 +1,5 @@
+"ENABLED" = "Näytä kuvatekstien kopiointipainike";
+"POSITION" = "Kuvatekstien kopiointipainikkeen sijainti";
 "CAPTIONS" = "Tekstitykset";
 "NO_CAPTIONS" = "Tekstityksiä ei löytynyt.";
 "COPY_TO_CLIPBOARD" = "Kopioi leikepöydälle";

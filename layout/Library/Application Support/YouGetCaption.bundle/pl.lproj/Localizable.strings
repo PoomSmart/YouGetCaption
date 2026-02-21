@@ -1,3 +1,5 @@
+"ENABLED" = "Pokaż przycisk kopiowania podpisów";
+"POSITION" = "Pozycja przycisku kopiowania podpisów";
 "CAPTIONS" = "Napisy";
 "NO_CAPTIONS" = "Nie znaleziono napisów.";
 "COPY_TO_CLIPBOARD" = "Skopiuj do schowka";

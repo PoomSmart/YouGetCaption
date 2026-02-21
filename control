@@ -1,6 +1,6 @@
 Package: com.ps.yougetcaption
 Name: YouGetCaption
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Views and copies caption from YouTube videos.
 Maintainer: PoomSmart

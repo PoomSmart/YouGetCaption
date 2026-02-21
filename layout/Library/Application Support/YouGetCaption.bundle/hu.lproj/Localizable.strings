@@ -1,3 +1,5 @@
+"ENABLED" = "Feliratok másolása gomb megjelenítése";
+"POSITION" = "A feliratok másolása gomb helye";
 "CAPTIONS" = "Feliratok";
 "NO_CAPTIONS" = "Nem találhatók feliratok.";
 "COPY_TO_CLIPBOARD" = "Másolás a vágólapra";

@@ -1,3 +1,5 @@
+"ENABLED" = "Schaltfläche zum Kopieren der Bildunterschriften anzeigen";
+"POSITION" = "Position der Schaltfläche zum Kopieren der Bildunterschriften";
 "CAPTIONS" = "Untertitel";
 "NO_CAPTIONS" = "Keine Untertitel gefunden.";
 "COPY_TO_CLIPBOARD" = "In die Zwischenablage kopieren";

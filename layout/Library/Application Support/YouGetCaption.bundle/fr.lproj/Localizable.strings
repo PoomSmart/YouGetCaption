@@ -1,3 +1,5 @@
+"ENABLED" = "Afficher le bouton de copie des légendes";
+"POSITION" = "Position du bouton de copie des légendes";
 "CAPTIONS" = "Sous-titres";
 "NO_CAPTIONS" = "Aucun sous-titre trouvé.";
 "COPY_TO_CLIPBOARD" = "Copier dans le presse-papiers";

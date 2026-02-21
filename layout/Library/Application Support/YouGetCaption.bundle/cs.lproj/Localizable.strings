@@ -1,3 +1,5 @@
+"ENABLED" = "Zobrazit tlačítko kopírování titulků";
+"POSITION" = "Umístění tlačítka kopírování titulků";
 "CAPTIONS" = "Titulky";
 "NO_CAPTIONS" = "Nebyly nalezeny žádné titulky.";
 "COPY_TO_CLIPBOARD" = "Kopírovat do schránky";

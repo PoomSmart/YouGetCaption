@@ -1,3 +1,5 @@
+"ENABLED" = "Hiển thị nút sao chép chú thích";
+"POSITION" = "Vị trí nút sao chép chú thích";
 "CAPTIONS" = "Phụ đề";
 "NO_CAPTIONS" = "Không tìm thấy phụ đề.";
 "COPY_TO_CLIPBOARD" = "Sao chép vào clipboard";

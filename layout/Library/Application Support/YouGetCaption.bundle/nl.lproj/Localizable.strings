@@ -1,3 +1,5 @@
+"ENABLED" = "Knop om bijschriften te kopiëren weergeven";
+"POSITION" = "Positie van de knop om bijschriften te kopiëren";
 "CAPTIONS" = "Ondertitels";
 "NO_CAPTIONS" = "Geen ondertitels gevonden.";
 "COPY_TO_CLIPBOARD" = "Kopiëren naar klembord";
